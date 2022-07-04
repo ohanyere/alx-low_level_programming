@@ -4,6 +4,7 @@
  * main - Entry point
  * Description - This program prints alphabets in lowercase and
  * in uppercase follwed by a new line
+ * Return: 0
  */
 int main(void)
 {
