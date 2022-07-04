@@ -10,17 +10,15 @@
 
 int main(void)
 {
-	int i = 0;
-	char p;
+	int i;
 
-	while (i < 0)
+	for (i = '0'; i <= '9'; i++)
 	{
-		putchar(i + '0');
-		i++;
+		putchar(i);
 	}
-	for (p = 'a'; p <= 'f'; p++)
+	for (i = 'a'; i <= 'f'; i++)
 	{
-		putchar(p);
+		putchar(i);
 	}
 	putchar('\n');
 	return (0);
