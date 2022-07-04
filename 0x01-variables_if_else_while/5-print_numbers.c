@@ -15,7 +15,7 @@ int main(void)
 	while (letter < 10)
 	{
 		printf("%d", letter);
-	 	letter++;
+	 letter++;
 	}
 	printf("\n");
 	return (0);
