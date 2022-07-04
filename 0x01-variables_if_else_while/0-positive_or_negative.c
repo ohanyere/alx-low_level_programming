@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <studio>
+#include <studio.h>
 
 /**
  * main-prints whether a random number stored in variable n
